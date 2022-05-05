@@ -1,3 +1,3 @@
 # random-python
 
-random python exercises/ programms I've done
+random python exercises/ programs I've done
